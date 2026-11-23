@@ -1,0 +1,9 @@
+Updated content>>hello.txt
+
+echo Updated content
+Updated content >> helloo.txt
+
+git status
+git status
+
+echo Updated content
